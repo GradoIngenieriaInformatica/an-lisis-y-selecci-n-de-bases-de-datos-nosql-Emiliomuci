@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+SERIES_TEMPORALES | Logs de eventos con consultas cronológicas y agregaciones por ventanas de tiempo necesitan optimización para datos ordenados por timestamp
