@@ -1,1 +1,2 @@
-TIPO | Justificación corta
+ALUMNO 34
+GRAFOS | Relaciones altamente conectadas entre usuarios, productos y patrones de compra requieren navegación eficiente de vínculos complejos

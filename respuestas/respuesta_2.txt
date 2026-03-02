@@ -1,1 +1,2 @@
-TIPO | Justificación corta
+ALUMNO 34
+CLAVE-VALOR | Sesiones temporales requieren acceso ultrarrápido en memoria con expiración automática de datos
